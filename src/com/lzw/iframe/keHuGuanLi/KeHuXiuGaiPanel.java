@@ -152,7 +152,7 @@ public class KeHuXiuGaiPanel extends JPanel {
 		});
 	}
 
-	private void initCombox() {
+	public void initCombox() {
 		// TODO Auto-generated method stub
 		List khInfo = Dao.getKhInfos();
 		List<Item> items = new ArrayList<Item>();
