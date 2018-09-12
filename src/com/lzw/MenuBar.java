@@ -12,7 +12,6 @@ import javax.swing.event.*;
 
 import com.lzw.iframe.*;
 
-import com.lzw.iframe.*;
 
 public class MenuBar extends JMenuBar {
 	/**
