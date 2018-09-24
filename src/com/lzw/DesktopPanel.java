@@ -22,3 +22,4 @@ public class DesktopPanel extends JDesktopPane {
 		g.drawImage(backImage, 0, 0, width, height, this);
 	}
 }
+
