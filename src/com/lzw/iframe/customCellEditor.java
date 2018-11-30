@@ -17,7 +17,7 @@ public class customCellEditor extends JComboBox implements TableCellEditor {// ±
 	private String gysName;// ¹©Ó¦ÉÌÃû³Æ
 	private ChangeEvent ce = new ChangeEvent(this);
 
-	public customCellEditor() {// ±à¼­Æ÷µÄ¹¹Ôì·½·¨
+	public customCellEditor() {// 
 		super();
 	}
 
